@@ -43,7 +43,7 @@ Popular game tic-tac-toe created Single Page Application Technology.
  ### Methods:
  - UploadAssets: Uploads Assets. Connect to server.
  
- ##ConfigMenager.js
+ ## ConfigMenager.js
  - Set config game.
  - Build Object Player.
  
